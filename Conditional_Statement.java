@@ -18,6 +18,7 @@ public class Main {
 }
 /* according to this program that we have written above, it will display that 0 is even but 0 is neither even nor odd */
 
+/* NESTED IF ELSE ( IF ke andar IF)*/
 import java.util.*;
 
 
@@ -42,3 +43,28 @@ public class Main {
   }
 
 }
+
+/* IF ELSE IF (IF ELSE IF)*/
+
+import java.util.*;
+
+
+public class Main {
+
+  public static void main(String[] args) throws Exception {
+
+    int x = 11;
+    if (x == 0) {
+      System.out.println("Neither even Nor Odd");
+    } else if (x % 2 == 0) {
+      System.out.println("The number is even");
+    } else {
+      System.out.println("The number is odd");
+    }
+    System.out.println("Hardwork is better than smart work");
+  }
+
+}
+
+
+
