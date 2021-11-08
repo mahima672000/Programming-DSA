@@ -61,7 +61,7 @@ public class Main {
     } else {
       System.out.println("The number is odd");
     }
-    System.out.println("Hardwork is better than smart work");
+    System.out.println("always executed because it is not inside any conditional statement hehe");
   }
 
 }
