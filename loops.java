@@ -42,4 +42,31 @@ In this case, the initial value of 'i' is 10.
 The variable y is then assigned the value of 'i' i.e. 10 and the increases the value of 10. 
 The final values of 'i' and 'y' would be 11 and 10 respectively. */
 
+/* this too will work */
+
+import java.util.*;
+
+public class Main {
+  public static void main(String[] args) throws Exception {
+    int i = 1;
+    for( ;i <= 10; ){
+    System.out.println(i);
+    i++;
+    }
+  }
+}
+/* what's wrong */
+
+import java.util.*;
+
+public class Main {
+  public static void main(String[] args) throws Exception {
+    int i = 1;
+    while(i <= 10); /*semicolon*/
+    {
+    System.out.println(i);
+    i++;
+    }
+  }
+}
 
