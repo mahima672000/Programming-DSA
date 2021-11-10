@@ -18,7 +18,7 @@ public class Main {
     int min = arr[0]; // initialising min & max of array
     int max = arr[0];
 
-    for (int i = 1; i < arr.length; i++) {
+    for (int i = 1; i < arr.length; i++) { //loop from i=1 since i=0 element is already stored
       if (arr[i] < min) {
         min = arr[i]; //updating the min
       }
