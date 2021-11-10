@@ -71,3 +71,13 @@ public class Main {
   }
 
 }
+
+/*Time Complexity:
+O(n)
+
+A 'for' loop is used to find an equivalent value in the array; travelling the n sized array makes the time complexity O(n).
+
+SPACE COMPLEXITY:
+O(1)
+
+Since no extra space is used, therefore space complexity is constant. */
