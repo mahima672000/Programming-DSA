@@ -18,7 +18,7 @@ public class Main {//main class
 
   public static void reverse(int[] a) { //reverse function
 
-    for (int i = 0, j = a.length - 1, i < j; i++, j--)
+    for (int i = 0; j = a.length - 1; i < j; i++; j--) //for loop ke bahar seicolon nhi lagta hai
     {
       int temp = a[i]; //swaping
       a[i] = a[j];
