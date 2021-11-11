@@ -51,4 +51,10 @@ O(1) since we have not used any extra language.
 */
 
 
+/* RECURSIVE APPROACH */
+
+//swap 1 element then recursively cll swap for rest of array
+
+
+
 
