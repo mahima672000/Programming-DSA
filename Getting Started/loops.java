@@ -9,7 +9,7 @@ the last part is known as increment. (i++)
 */
 
 /* for loop */
-for(int i = 1; i <= 10; i++){
+for(int i = 1; i <= 10; i++){// 1. Initiation -> 2. Evaluation -> 3. Execution -> 4. Increment they are separated by ;
 System.out.println(i);
 }
 
