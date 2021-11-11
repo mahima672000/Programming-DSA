@@ -33,3 +33,14 @@ public class Main {
   }
 
 }
+
+
+/* Time Complexity:
+O(n2)
+
+This time complexity is quadratic because nested for loops are used.
+
+SPACE COMPLEXITY:
+O(n)
+
+As a 1D array is used, therefore space complexity is linear. */
