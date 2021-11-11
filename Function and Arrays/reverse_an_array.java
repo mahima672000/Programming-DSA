@@ -6,7 +6,7 @@ import java.io.*;
 
 import java.util.*;
 
-public class Main {
+public class Main {//main class
   public static void display(int[] a) { //display function
     StringBuilder sb = new StringBuilder(); //string builder
 
