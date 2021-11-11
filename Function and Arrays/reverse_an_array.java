@@ -102,3 +102,8 @@ public static void reverse(int[] a) {
   }
 
 }
+/*Time Complexity :
+O(n) as we have traversed the array twice. Once while copying the values from a[ ] to b[ ] and other times while copying back the values from b[ ] to a[ ].
+
+SPACE COMPLEXITY :
+O(n) as we have used an extra array which is also known as an auxiliary array in the programmer's language. The size of the array was the same as that of the given array. */
