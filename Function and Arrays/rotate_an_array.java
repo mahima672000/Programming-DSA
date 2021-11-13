@@ -63,3 +63,13 @@ public static void reverse(int[] a, int li, int ri) {//reverse fn
   }
 
 }
+
+/* Time Complexity:
+O(n)
+
+This is because we have to traverse the array and its parts to reverse it. So, the time complexity for reversing the array and its parts will be O(n) + O(n) + O(n)=O(n).
+
+SPACE COMPLEXITY:
+O(1)
+
+(as we have not used any extra space) */
