@@ -16,9 +16,9 @@ public class Main {//main class
       arr[i] = scn.nextInt;
     }
 
-    for (int i = 0; i < arr.length; i++) {
-      for (int j = i; j < arr.length; j++) {
-        for (int k = i; k <= j; k++) {
+    for (int i = 0; i < arr.length; i++) {//i traverses from 0 to arr.length
+      for (int j = i; j < arr.length; j++) {//j traverses from i to arr.length //at first both i & j are 0
+        for (int k = i; k <= j; k++) {//k traverses from i to j
           System.out.print(arr[k] + "	");
         }
         System.out.println();
