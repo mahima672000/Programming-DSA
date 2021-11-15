@@ -10,8 +10,8 @@ import java.io.*;
 import java.util.*;
 public class Main // main class
 {
-  public static void main (String[]args) throws Exception // main fn
-  {
+  public static void main (String[]args) throws Exception 
+  {                                                  // main fn
     Scanner scn = new Scanner (System.in);
     int n = scn.nextInt (); 
     int m = scn.nextInt (); 
