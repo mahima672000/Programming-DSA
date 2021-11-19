@@ -51,3 +51,13 @@ public class Main {
   }
 }
 
+
+/* Time Complexity:
+O(n3)
+
+This time complexity is cubic because 3 nested for loops are used.
+
+SPACE COMPLEXITY:
+O(n2)
+
+As 2D arrays are used to store numbers, therefore space complexity is quadratic.*/
