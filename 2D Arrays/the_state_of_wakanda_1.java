@@ -2,7 +2,7 @@
 
  Inshort the problem is :- wave traversal of a 2D-array 
  
- Our aim is to traverse  input 2D array, in a wave pattern & NOT to print anything so no space will be used so space complexity is O(1) */
+ Our aim is to traverse  input 2D array, in a wave pattern */
 
 import java.io.*;
 
