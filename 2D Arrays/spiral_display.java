@@ -9,28 +9,65 @@ we may think of traversing it box by box making sure that value at corner doesn'
 import java.io.*;
 
 import java.util.*;
-public class Main // min class
-{
-  public static void main (String[]args) throws Exception //main fn
-  {
-    Scanner scn = new Scanner (System.in);
-    int n = scn.nextInt ();
-    int m = scn.nextInt ();
-    int arr[][] = new int[n][m]; //initialising & declaring the array
-    for (int i = 0; i < arr.length; i++)
-    {
-      for (int j = 0; j < arr[i].length; j++)
-      {
-        arr[i][j] = scn.nextInt ();
+
+public class Main{
+  public static void main(String[] args) throws Exception {
+    Scanner scn = new Scanner(System.in);
+    int n = scn.nextInt();
+    int m = scn.nextInt();
+    int[][] arr = new int[n][m];
+    for (int i = 0; i < arr.length; i++) {
+      for (int j = 0; j < arr[0].length; j++) {
+        arr[i][j] = scn.nextInt();
       }
     }
-    for (int i = 0; i < arr.length; i++)
-    {
-      for (int j = 0; j < arr[i].length; j++)
-      {
-        System.out.print (arr[i][j] + " ");
+
+    int minrow = 0;
+    int mincol = 0;
+    int maxrow = arr.length - 1;
+    int maxcol = arr[0].length - 1;
+
+
+    int tne = n * m;     //total numbers of elements
+    int count = 0;
+
+    while (count < tne) {
+
+      //left wall
+      if (count < tne) {
+        for (int i = minrow; i <= maxrow; i++) {
+          System.out.println(arr[i][mincol]);
+          count++;
+        }
       }
-      System.out.println ();
+      mincol++;
+
+      //bottom wall
+      if (count < tne) {
+        for (int i = mincol; i <= maxcol; i++) {
+          System.out.println(arr[maxrow][i]);
+          count++;
+        }
+      }
+      maxrow--;
+
+      //right wall
+      if (count < tne) {
+        for (int i = maxrow; i >= minrow; i--) {
+          System.out.println(arr[i][maxcol]);
+          count++;
+        }
+      }
+      maxcol--;
+
+      //top wall
+      if (count < tne) {
+        for (int i = maxcol; i >= mincol; i--) {
+          System.out.println(arr[minrow][i]);
+          count++;
+        }
+      }
+      minrow++;
     }
   }
 }
