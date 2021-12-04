@@ -1,31 +1,34 @@
 /* method 1*/
 import java.util.*;
 
-public class Main {
-  public static void main(String[] args) throws Expectation {
+public class Main { // main class
+  public static void main(String[] args) throws Exception {
     System.out.print("Mahima\n");
     System.out.print("Sahu");
-      
+  }
+}
       /* method 2*/
       
       
  import java.util.*;
     
- public class Main {
-   public static void main(String[] args) throws Expectation {
+ public class Main { //main class
+   public static void main(String[] args) throws Exception {
      System.out.println("Mahima");
      System.out.println("Sahu");
-     
+   }  
+ }
      
         /* method 3*/
      
 import java.util.*;
  
 public class Main{
-  public static void main(String[] args) throws Expectation {
+  public static void main(String[] args) throws Exception {
     System.out.print("Mahima");
     System.out.print("Sahu");
-    
+  }
+}
     
     
     /* OUTPUT
