@@ -17,6 +17,7 @@ public class Main {
 
 }
 /* according to this program that we have written above, it will display that 0 is even but 0 is neither even nor odd */
+/* so never use above program when asked to find even odd*/
 
 /* NESTED IF ELSE ( IF ke andar IF)*/
 import java.util.*;
@@ -68,3 +69,7 @@ public class Main {
 
 
 
+/* total three types -
+1) if else
+2) nested if else(if ke andar if)
+3) if else if(if else if)
