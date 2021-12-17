@@ -40,5 +40,6 @@ int arr[]; It only creates a variable in the stack and has value null by default
 //Heap will only allocate new memory space only if you use the new keyword.
 //Otherwise, a simple shallow copy will take place.
 
-//3.
+//3.Functions: When we pass arrays as a parameter to a function only shallow copy takes place.
+//And if any changes occur inside the function then the changes will be reflected everywhere.
  
