@@ -14,7 +14,7 @@ import java.util.*;
 public class Main {
   public static void main(String[] args) {
     Scanner scn = new Scanner(System.in);
-    int[] marks = new int[5];
+    int[] marks = new int[5]; // declaration & memory allocation
     for (int i = 0; i < marks.length; i++) {
       marks[i] = scn.nextInt();
     }
