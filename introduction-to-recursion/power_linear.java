@@ -22,7 +22,7 @@ public class Main {
 } 
 /*
 Time Complexity :
-O(n)
+O(n) {O(n) represents the complexity of a function that increases linearly and in direct proportion to the number of inputs}
 
 Since you are recursively calling for a subproblem with n-1 from n,
 hence n + 1 recursive calls will be made (+ 1 when it hits the base case n = 0). 
@@ -31,6 +31,7 @@ So the time complexity turns out to be O(n) (which is independent of the value o
 
 SPACE COMPLEXITY :
 O(1)
+{Auxiliary space refers to the temporary space required by an algorithm to be used.}
 
 There is no data structure used, thus no auxiliary space is used. Hence, space complexity is O(1).
 Note: There are n recursive calls that do take stack space, 
