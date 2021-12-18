@@ -12,12 +12,13 @@ import java.io.*;
 import java.util.*;
 
 public class Main{
-  public static void main(String []args throws Exception){
+  public static void main(String []args) throws Exception{
+    Scanner scn = new Scanner(System.in);
     int n = scn.nextInt();
     int t1 = scn.nextInt();
     int t2 = scn.nextInt();
     int t3 = scn.nextInt();
-    System.out.println(toh);
+    toh(n,t1,t2,t3); // call toh &  toh will print everything
   }
   public static void toh(int n,int t1, int t2,int t3){
     if(n==0)
@@ -27,4 +28,3 @@ public class Main{
     toh(n-1,t1,t2,t3);
   }
 }
-/* 
