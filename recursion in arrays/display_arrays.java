@@ -1,4 +1,6 @@
 /* display arrays not in iterative way but in recursive way 
+
+WHY WE ARE NOT USING BUFFER AND STILL GETTING OUTPUT
 In general, BufferedReader comes in handy if we want to read text from any kind of input source whether that be files, sockets, or something else.
 we could use the Scanner class to achieve the same functionality as with BufferedReader.
 
