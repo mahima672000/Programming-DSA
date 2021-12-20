@@ -9,7 +9,7 @@ then the first index with value equal to data will be printed.
 in case, where value equivalent to data is not present in the array then, after control comes out of the for loop, -1 will be printed.
 */
 
-/* there are two codes */
+/* there are two codes */ /* second code is useless :P */
 import java.io.*;
 
 import java.util.*;
@@ -33,7 +33,7 @@ public class Main {
         return; // so that the code stops after finding our i for the very first d
       }
     }
-    System.out.println(-1);
+    System.out.println(-1); // else condition not needed since the code will stop after finding our i 
   }
 
 }
