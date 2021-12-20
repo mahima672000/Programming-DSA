@@ -1,1 +1,1 @@
-!= Not Equal Examples
+!= Not Equal 
