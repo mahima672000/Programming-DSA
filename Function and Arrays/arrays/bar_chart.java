@@ -15,7 +15,7 @@ public class Main {
     int max = Integer.MIN_VALUE; // intialising the maximum 
     for (int i = 0; i < n; i++) { // we are using a for loop for each i there's a max
 
-      max = Math.max(max, arr[i]); // maximum is maximum  of arr[i]
+      max = Math.max(max, arr[i]); // maximum is maximum  of arr[i]  
     }
 
 
