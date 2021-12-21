@@ -54,6 +54,22 @@ Interesting part is, we can even concatenate an integer to the string.
 
 ![image](https://user-images.githubusercontent.com/93143005/146860198-7fe20ad9-44dd-4363-b85f-0db94f2e6349.png)
 
+* String[] split(String regex)
+ ![image](https://user-images.githubusercontent.com/93143005/146860398-87cedee2-c8d5-4930-95ef-b0e51ce79e35.png)
+
+words is an array of strings which will contain each space-separated word of the string { "We", "are", "learning", "strings"}.
+Note: Since, words is an array of string (and not string), hence we have used words.length and not words.length().
+
+We can even separate/split the string based on "," or any other regular expression. 
+But, please keep in mind, that parameter that split expects is a string and not a character.
+
+
+*********************************Question*********************************
+![image](https://user-images.githubusercontent.com/93143005/146866388-9ef6fd66-f40f-43d8-8bff-959390c3fbce.png)
+In Java, expressions are read from left to right (for +, -, *, / operators etc.), i.e. + is said to have left to right associativity.
+
+1st output -> Hello1020
+2nd output -> 30Hello
 
 
 
