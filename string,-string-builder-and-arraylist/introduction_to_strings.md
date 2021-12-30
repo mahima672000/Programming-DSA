@@ -33,7 +33,7 @@ str.charAt(5) will return the character at index = 5, (in 0-based indexing)
 
 {Index passed should be a valid index (from 0 to length of string - 1), otherwise it will give IndexOutOfBound Exception}
 
-STRINGS ARE IMMUTABLE IN JAVA.
+**STRINGS ARE IMMUTABLE IN JAVA**
 
 We cannot set/modify any character of a string by modifying str.charAt(index). 
 (It will give an error that str.charAt(index) is not a variable but a value).
