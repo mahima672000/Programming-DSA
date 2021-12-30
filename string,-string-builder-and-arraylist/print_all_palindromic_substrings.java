@@ -6,6 +6,7 @@ left to right is equal to the string read from right to left.
 
 abccbc 
 palindromic substrings for this are -> a , b , c, cc, cbc , bccb
+*a,b,c are also palindromic*
 
 So the psuedo code or the approach would be ?
 * Generate substrings
