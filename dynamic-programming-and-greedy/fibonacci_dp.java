@@ -68,5 +68,15 @@ public class Main {
 }
 
 
+/*
+Time Complexity :
+O(n) [exponential]
 
+Here every Fib(n) will be called only once, because next time the value will be retrieved from the qb. Thus, it will take O(1) per call, hence n*O(1) = O(n)
 
+SPACE COMPLEXITY :
+O(n) [linear]
+
+Here we are using an additional qb[] array to store the results, which will add to the runtime stack space complexity. Thus overall space complexity is O(n+n) which is the same as O(n)
+
+If at any point you found some difficulty I would suggest you watch the video explanation. It is very important that your dp basics are strong. */
