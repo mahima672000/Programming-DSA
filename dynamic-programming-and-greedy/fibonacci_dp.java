@@ -34,6 +34,39 @@ Since we are making at most n recursion calls, the runtime stack will take up n 
 
 /* Approach 2- DP = Recursion + Memoization */
 
+import java.io.*;
+
+import java.util.*;
+
+public class Main {
+
+  public static void main(String[] args) throws Exception {
+    Scanner scn = new Scanner(System.in);
+    int n = scn.nextInt();
+    int[] qb = new int[n + 1];
+    int FibMemoized = FibMemoized(n, qb);
+
+    System.out.println(FibMemoized);
+
+    scn.close();
+  }
+
+  public static int FibMemoized(int n, int[] qb) {
+    if (n == 0 || n == 1) {
+      return n;
+    }
+    if (qb[n] != 0) { //checking if fib(n) already solved or not ... fib(n) is same as qb(n) ...DOUBT! 
+      return qb[n];
+    }
+    
+    int fibn = FibMemoized(n - 1, qb) + FibMemoized(n - 2, qb);
+
+    qb[n] = fibn; //storing n-th element in the array qb
+
+    return fibn;
+  }
+}
+
 
 
 
