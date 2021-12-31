@@ -25,7 +25,7 @@ public class Main{
 }
 /* Time Complexity :
 Clearly, the time complexity is exponential. It can also be visualized in a simple manner, 
-like for each Fibonacci you are making 2 sub-calls. And this will happen n times so 2*2*2*2 ... n-times i.e 2n . Thus it is in the order of O(2n).
+like for each Fibonacci you are making 2 sub-calls. And this will happen n times so 2*2*2*2 ... n-times i.e 2^n . Thus it is in the order of O(2n).
 
 SPACE COMPLEXITY :
 O(n) [linear]
