@@ -1,5 +1,5 @@
  # Memory Management in Strings and Immutable nature of Strings
- 
+ Two major impacts of string interning  are the unexpected result in String comparisons and it makes Strings Immutable.
  ## Memory Management in Strings
  There are majorly two types of memory associated with a program, that are stack memory and heap memory.
  `only primitive data-types: Byte, Short, Int, Long, Double, Float, Char and Boolean are stored directly in stack memory`
