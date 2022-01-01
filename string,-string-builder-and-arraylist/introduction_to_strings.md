@@ -72,6 +72,9 @@ In Java, expressions are read from left to right (for +, -, *, / operators etc.)
 1st output -> Hello1020
 2nd output -> 30Hello
 
+# How to append a string
+newstring += oldstring.appendingcharacter
+
 
 
 
