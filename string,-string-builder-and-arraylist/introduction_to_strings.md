@@ -11,6 +11,7 @@ Name of the data type used to declare a string is "**String**" and not "string".
 # Declaration
 
 ## Using **String** **Literal**: String literal is created by using **double** **quotes**.
+**String s= ""; // declaration of an empty string **
 
 ![image](https://user-images.githubusercontent.com/93143005/146854408-68509507-10d2-4b48-96a1-ad9e0ea7ac52.png)
 
