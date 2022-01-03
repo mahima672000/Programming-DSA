@@ -6,6 +6,7 @@
    'c'-'e' = -2
    'd'-'c' = 1 */
 
+// my solution --->
 import java.io.*;
 import java.util.*;
 
@@ -14,11 +15,11 @@ public class Main {
 	public static String solution(String str){
 	    StringBuilder sb = new StringBuilder(str);
 	    String ans = "";
-	    for(int i=0;i<sb.length;i++){
+	    for(int i = 0 ; i<sb.length-1;i++){
 	        char ch1 = sb.charAt(i);
 	        char ch2 = sb.charAt(i+1);
 	        ans += ch1;
-	        ans += (char)('ch2'-'ch1');
+	        ans += (char)(ch2-ch1);
 	        
 	    }
 	    return ans;
@@ -30,3 +31,5 @@ public class Main {
 	}
 
 }
+
+//
