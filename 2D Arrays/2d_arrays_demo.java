@@ -13,14 +13,14 @@ public class Main // main class
   public static void main (String[]args) throws Exception 
   {                                                  // main fn
     Scanner scn = new Scanner (System.in);
-    int n = scn.nextInt (); 
-    int m = scn.nextInt (); 
-    int arr[][] = new int[n][m]; 
+    int n = scn.nextInt (); //inputing no. of rows
+    int m = scn.nextInt (); //inputing no. of columns
+    int arr[][] = new int[n][m]; //declare + define
     for (int i = 0; i < arr.length; i++) 
     {
       for (int j = 0; j < arr[i].length; j++)
       {
-        arr[i][j] = scn.nextInt (); // inputing array
+        arr[i][j] = scn.nextInt (); // inputing 2D array (we can think of it as n-row 1-d arrays of arr[i].length length each)
       }
     }
     // no of rows is arr.length & no of column arr[0].length
@@ -29,7 +29,7 @@ public class Main // main class
     {
       for (int j = 0; j < arr[i].length; j++) 
       {
-        System.out.print (arr[i][j] + " "); //print array 
+        System.out.print (arr[i][j] + " "); //print array ,"space"
       }
       System.out.println (); //print in new line for each 0
     }
