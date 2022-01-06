@@ -34,3 +34,6 @@ Hence, trying to remove an element from an empty stack (size = 0), will give a r
 *size():Returns the number of elements present in the stack.
 
 All these operations are constant operations, i.e. the time complexity is O(1) per call.
+  
+  ![image](https://user-images.githubusercontent.com/93143005/148396303-6e5b22aa-7147-45a8-8de4-bb30dc42c5a7.png)
+
