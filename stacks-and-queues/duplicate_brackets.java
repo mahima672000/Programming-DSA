@@ -63,3 +63,5 @@ public class Main{
     }
   }
 }
+
+/* application of stack here -  temporary storage of information */
