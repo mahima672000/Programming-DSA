@@ -56,7 +56,10 @@ public class Main{
       }else if(st.peek() == '('){
         return true;
       }else {while(st.peek() != '('){
-        st.pop();
+        st.pop(); // pop until ( is found
           }
-        st.pop();
-       }
+        st.pop(); //pop ( too !
+        }
+    }
+  }
+}
