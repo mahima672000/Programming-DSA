@@ -1,4 +1,4 @@
- An expression will have unbalanced brackets if the order of the brackets does not match, 
+An expression will have unbalanced brackets if the order of the brackets does not match, 
 or if the opening brackets are more as compared to the closing brackets 
 or the closing brackets are more as compared to the opening brackets. 
 
@@ -29,6 +29,15 @@ empty whenever we wanted to pop from it. So, the brackets were balanced.
 
 ![image](https://user-images.githubusercontent.com/93143005/148372014-842d87e7-25a8-459c-b35c-716d75cc95fa.png)
 ![image](https://user-images.githubusercontent.com/93143005/148372029-c0604b00-b101-48ea-8f1f-5acdb03c81c1.png)
+
+## Pseudocode
+In all the 4 cases we are :
+ *Storing the open brackets as we encounter them
+ *ignore other characters (alphabets or operators)
+ *closing bracket found --traverse by iterating the string thoroughly --& check if corresponding opening bracket found --& pop them
+ *if stack is empty after traversal &-
+  * all opening bracket NOT found-->Extra closing brackets
+  * all opening brackets found-->balanced
 
 
 
