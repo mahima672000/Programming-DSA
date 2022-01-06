@@ -33,11 +33,16 @@ empty whenever we wanted to pop from it. So, the brackets were balanced.
 ## Pseudocode
 In all the 4 cases we are :
  *Storing the open brackets as we encounter them
+ 
  *ignore other characters (alphabets or operators)
+ 
  *closing bracket found --traverse by iterating the string thoroughly --& check if corresponding opening bracket found --& pop them
+ 
  *if stack is empty after traversal &-
-  * all opening bracket NOT found-->Extra closing brackets
-  * all opening brackets found-->balanced
+  * &still a pop operation left-->Extra closing brackets
+  * all pop operations complete-->balanced
+  * closing & opening bracket do not match -->Mismatch
+ *if stack is not empty -->extra closing brackets
 
 
 
