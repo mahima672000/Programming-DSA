@@ -31,18 +31,8 @@ empty whenever we wanted to pop from it. So, the brackets were balanced.
 ![image](https://user-images.githubusercontent.com/93143005/148372029-c0604b00-b101-48ea-8f1f-5acdb03c81c1.png)
 
 ## Pseudocode
-In all the 4 cases we are :
- *Storing the open brackets as we encounter them
- 
- *ignore other characters (alphabets or operators)
- 
- *closing bracket found --traverse by iterating the string thoroughly --& check if corresponding opening bracket found --& pop them
- 
- *if stack is empty after traversal &-
-  * &still a pop operation left-->Extra closing brackets
-  * all pop operations complete-->balanced
-  * closing & opening bracket do not match -->Mismatch
- *if stack is not empty -->extra closing brackets
+![image](https://user-images.githubusercontent.com/93143005/148396047-74426d3a-8c37-46bd-92e7-e6ac5edca826.png)
+
 
 
 
