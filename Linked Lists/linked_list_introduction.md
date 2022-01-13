@@ -33,10 +33,16 @@ As there are no more elements after the last node , therefore the address part o
 **Also the stack stores the address of the first element of the linked list i.e. 4k.**
 **a linked list is a non-continuous type of data structure**
 
+1. Head of the LinkedList only contains the Address of the First element of the List.
+2. The Last element of the LinkedList contains null in the pointer part of the node because it is the end of the List so it doesn’t point to anything as shown in the above diagram.
+3. The diagram which is shown above represents a singly linked list.
+
 ## Disadvantage of Linked List over Arrays in terms of memory
 
 Even though it is advantageous to use Linked Lists for space conservation in heap, we notice that since each node stores 2 values: data and address,
 therefore each node requires 4bytes+ 4 bytes=8 bytes of memory. 
 The memory used in arrays for each element was only 4 bytes. **Here, the space of linked lists is noticed to be more.**
+
+
 
 
