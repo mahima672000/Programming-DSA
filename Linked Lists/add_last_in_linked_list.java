@@ -25,7 +25,7 @@ public class Main{
     temp.next = null; // making its address point to null
       
     if(size==0){ //if intially the linked list was empty 
-      head = tail= temp; //all the three nodes are same then
+      head = tail= temp; //all the three nodes are same then ... head - tail -temp look at the sequence
     }else{  // if intialy linked list was not empty
       tail.next = temp; //address of tail point to temp so that temp now becomes the new tail
       tail = temp; // why tail = temp & not temp = tail??   tail = temp .."tail of the linked list is temp"
@@ -49,7 +49,16 @@ public class Main{
       LinkedList list = new LinkedList();
       
       String str = br.readLine();
-      
-      
+    while (str.equals("quit") == false) {
+      if (str.startsWith("addLast")) {
+        int val = Integer.parseInt(str.split(" ")[1]);
+        list.addLast(val);
+      }
+      str = br.readLine();
+    }
+
+    testList(list);
+  }
+}
     
     
