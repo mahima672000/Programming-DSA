@@ -89,7 +89,7 @@ public class Main {
       BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
       LinkedList list = new LinkedList();
       
-      tring str = br.readLine();
+      String str = br.readLine();
     while (str.equals("quit") == false) {
       if (str.startsWith("addLast")) {
         int val = Integer.parseInt(str.split(" ")[1]);
