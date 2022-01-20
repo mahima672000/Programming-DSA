@@ -161,8 +161,8 @@ public class Main{
       }
     }
 
-    private Node getNodeAt(int idx) {
-      Node temp = head;
+    private Node getNodeAt(int idx) { // creating a private fn getNode we will run it inside the class only 
+      Node temp = head; //creating a dummy pointer initialized with the head
       for (int i = 0; i < idx; i++) {
         temp = temp.next;
       }
@@ -170,19 +170,19 @@ public class Main{
     }
 
     public void reverseDI() {
-      int li = 0;
-      int ri = size - 1;
+      int li = 0; // initializing left index
+      int ri = size - 1; //initializing right index
 
-      while (li < ri) {
-        Node left = getNodeAt(li);
-        Node right = getNodeAt(ri);
+      while (li < ri) { //while left index is less than right index
+        Node left = getNodeAt(li); // get node at left
+        Node right = getNodeAt(ri);//get node at right
 
-        int temp = left.data;
-        left.data = right.data;
-        right.data = temp;
+        int temp = left.data; //declare temp as left node
+        left.data = right.data; //change data of left node to that of right node
+        right.data = temp; // change data of right node to that of temp
 
-        li++;
-        ri--;
+        li++; //increase left index
+        ri--; //decrease right index
       }
     }
   }
