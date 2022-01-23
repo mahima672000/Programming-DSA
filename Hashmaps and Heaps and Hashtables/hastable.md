@@ -5,3 +5,9 @@
 Let's see the declaration for java.util.HashSet class.
 
 `public class HashSet<E> extends AbstractSet<E> implements Set<E>, Cloneable, Serializable`
+
+![image](https://user-images.githubusercontent.com/93143005/150693623-45e523e8-1022-4227-b29e-1432396eebc3.png)
+
+
+![image](https://user-images.githubusercontent.com/93143005/150693652-5764e228-468d-4599-9e27-4ba4956e016e.png)
+
