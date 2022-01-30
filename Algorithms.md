@@ -11,3 +11,8 @@
 *Dynamic Programming
 
 *Bit Manipulation
+
+* Divide & Conquer
+
+* Greedy
+
