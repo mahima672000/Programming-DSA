@@ -1,3 +1,6 @@
+~if qn me sorted word is used high chances of binary search there`
+
+## Binary Search in a Sorted array
 ```class Solution {
     public int search(int[] nums, int target) {
         int l = 0;
@@ -16,3 +19,6 @@
     }
 }
 ```
+## Binary Search in reverse sorted array
+```
+
