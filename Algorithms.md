@@ -16,3 +16,5 @@
 
 * Greedy
 
+* Kadane's
+
