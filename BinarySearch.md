@@ -1,4 +1,4 @@
-~if qn me sorted word is used high chances of binary search there`
+*if qn me sorted word is used high chances of binary search there*
 
 ## Binary Search in a Sorted array
 ```class Solution {
