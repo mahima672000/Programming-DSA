@@ -1,4 +1,4 @@
-`class Solution {
+```class Solution {
     public int search(int[] nums, int target) {
         int l = 0;
         int h = nums.length-1;
@@ -14,4 +14,4 @@
         } 
         return -1;
     }
-}`
+}```
