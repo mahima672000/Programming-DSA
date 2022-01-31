@@ -28,7 +28,7 @@ public class Main {//main class
     int h = arr.length - 1;//initialize high
 
     while (l <= h) {//use of loop coz we have to keep searching till we found m for our data=arr[m]
-      int m = (l + h) / 2;
+      int m = (l + h) / 2;//// m should be loop k inside taaki update hote rhe
       if (data > arr[m]) {
         l = m + 1;
       } else if (data < arr[m]) {
