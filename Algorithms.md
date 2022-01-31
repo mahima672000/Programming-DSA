@@ -1,16 +1,16 @@
-*Binary Search
+* Binary Search
 
-*Two Pointers
+* Two Pointers
 
-*Sliding window
+* Sliding window
 
-*Breadth First Search/Depth First Search
+* Breadth First Search/Depth First Search
 
-*Recursion/Backtracking
+* Recursion/Backtracking
 
-*Dynamic Programming
+* Dynamic Programming
 
-*Bit Manipulation
+* Bit Manipulation
 
 * Divide & Conquer
 
