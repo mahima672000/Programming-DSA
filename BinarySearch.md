@@ -69,3 +69,7 @@ class Solution {
         return res;//this will give first occurence
     }
 }
+
+// change target==nums[m] case with l=m+1 it will give us last occurence
+```
+## 
