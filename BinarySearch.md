@@ -39,7 +39,8 @@ int l = 0;
 ```
 ## Array order not known Search(sorted it is but we don't know if its ascending or descending)
 
-```arr[0] & arr[arr.length-1] should be compared.
+```
+arr[0] & arr[arr.length-1] should be compared.
 ```
 ## First and Last occurrence of an Element in a sorted array
 
