@@ -19,3 +19,5 @@ optimal - max profit
 ![image](https://user-images.githubusercontent.com/93143005/152574551-a6ca602d-0843-4f7e-b607-b32fe0bc986f.png)
 
 ## 0/1 Knapsack Recursive
+
+
