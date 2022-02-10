@@ -1,3 +1,5 @@
+https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise
+https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
 How to identify qn is of dynamic programming or not?
 Dp is enhanced recursion
 DP qn mostly asks some optimal
