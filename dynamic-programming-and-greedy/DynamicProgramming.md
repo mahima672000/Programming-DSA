@@ -35,4 +35,7 @@ humko pata h ye recursive solution h kyu kyuki isme choice de rakhi hai
 **Base Condition Technique**
 ![image](https://user-images.githubusercontent.com/93143005/153362289-537fdd0d-32d6-4b71-a7be-7555da69f496.png)
 
-![image](https://user-images.githubusercontent.com/93143005/153376644-789f7e5e-93a2-4788-91be-636842ab04ca.png)
+**Code**
+![image](https://user-images.githubusercontent.com/93143005/153378155-4240c115-cf79-4adb-96f3-d52deaa4a72b.png)
+
+
