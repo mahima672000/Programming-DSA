@@ -20,4 +20,10 @@ optimal - max profit
 
 ## 0/1 Knapsack Recursive
 
-
+**input**: weight array for items, value array for items , capacity of knapsack
+![image](https://user-images.githubusercontent.com/93143005/153359115-129324bd-7f2d-4ea0-bd40-df162b2592e2.png)
+humko pata h ye recursive solution h kyu kyuki isme choice de rakhi hai
+* recursive code likhne se pehle choice diagram banalo
+![image](https://user-images.githubusercontent.com/93143005/153358688-1b9d2653-2b32-4b6a-b2ce-7366c6b03f7b.png)
+* function banayenge knapsack ka toh return type int hoga kyuki hume max profit return karna hai
+* 
