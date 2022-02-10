@@ -27,3 +27,7 @@ humko pata h ye recursive solution h kyu kyuki isme choice de rakhi hai
 ![image](https://user-images.githubusercontent.com/93143005/153358688-1b9d2653-2b32-4b6a-b2ce-7366c6b03f7b.png)
 * function banayenge knapsack ka toh return type int hoga kyuki hume max profit return karna hai
 ![image](https://user-images.githubusercontent.com/93143005/153360474-dd8ca7a7-ed21-41e3-a93c-08e68472196e.png)
+
+**Base Condition Technique**
+![image](https://user-images.githubusercontent.com/93143005/153362289-537fdd0d-32d6-4b71-a7be-7555da69f496.png)
+
