@@ -45,4 +45,8 @@ If t[3][2] available then use hi return
 If not available then call recursive fn ..where n =3 w=2
 ![image](https://user-images.githubusercontent.com/93143005/153445771-31a1ef36-8fb8-4c1a-adbc-c61c0f26b699.png)
 
+## 0/1 knapsack Top down
+
+
+
 
