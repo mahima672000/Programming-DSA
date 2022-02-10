@@ -39,5 +39,10 @@ humko pata h ye recursive solution h kyu kyuki isme choice de rakhi hai
 ![image](https://user-images.githubusercontent.com/93143005/153378155-4240c115-cf79-4adb-96f3-d52deaa4a72b.png)
 
 ## 0/1 Knapsack Memoization
+![image](https://user-images.githubusercontent.com/93143005/153442326-706f8452-c9ff-4d38-8f6b-5169f89ce4ec.png)
+
+If t[3][2] available then use hi return 
+If not available then call recursive fn ..where n =3 w=2
+![image](https://user-images.githubusercontent.com/93143005/153445771-31a1ef36-8fb8-4c1a-adbc-c61c0f26b699.png)
 
 
