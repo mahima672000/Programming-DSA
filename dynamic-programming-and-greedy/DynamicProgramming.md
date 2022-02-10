@@ -38,4 +38,6 @@ humko pata h ye recursive solution h kyu kyuki isme choice de rakhi hai
 **Code**
 ![image](https://user-images.githubusercontent.com/93143005/153378155-4240c115-cf79-4adb-96f3-d52deaa4a72b.png)
 
+## 0/1 Knapsack Memoization
+
 
