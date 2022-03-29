@@ -55,6 +55,9 @@ Interesting part is, we can even concatenate an integer to the string.
 
 ![image](https://user-images.githubusercontent.com/93143005/146860198-7fe20ad9-44dd-4363-b85f-0db94f2e6349.png)
 
+file:///home/hp/Pictures/Screenshot%20from%202022-03-29%2018-23-09.png![image](https://user-images.githubusercontent.com/93143005/160615569-f6f72ae7-12ea-4f3e-b683-8208b0d35d7a.png)
+
+
 * String[] split(String regex)
  ![image](https://user-images.githubusercontent.com/93143005/146860398-87cedee2-c8d5-4930-95ef-b0e51ce79e35.png)
 
