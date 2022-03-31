@@ -57,6 +57,8 @@ Interesting part is, we can even concatenate an integer to the string.
 
 file:///home/hp/Pictures/Screenshot%20from%202022-03-29%2018-23-09.png![image](https://user-images.githubusercontent.com/93143005/160615569-f6f72ae7-12ea-4f3e-b683-8208b0d35d7a.png)
 
+to concatenate a a no to dtring "string" + number
+
 
 * String[] split(String regex)
  ![image](https://user-images.githubusercontent.com/93143005/146860398-87cedee2-c8d5-4930-95ef-b0e51ce79e35.png)
