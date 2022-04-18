@@ -31,3 +31,4 @@ They are used to implement other data structures like Stacks, Queues, Heaps, etc
 
 /*Disadvantages of using arrays:
 You can't change the size of an array, once declared. */
+/* ARRAYS ARE MUTABLE IN JAVA */
