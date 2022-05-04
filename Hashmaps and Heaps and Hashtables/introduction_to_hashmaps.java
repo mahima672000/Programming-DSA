@@ -70,7 +70,7 @@ public class Main {
     hm.put("USA", 329);
     hm.put("Indonesia", 268);
 
-    Set< String> keys = hm.keySet();
+    Set< String> keys = hm.keySet();  //LINE 79 & 95 ....u can replace hm.keySet with keys in line 95...& ya line 75 tells how we declare a set.
     System.out.println(keys);
   }
 }
