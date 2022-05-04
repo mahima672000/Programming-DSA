@@ -7,4 +7,4 @@ class Solution {
         return ans;
     }
 }
-//index -><- value present
+//index -><- value present i & nums[i] have the same domain....so just simply write the code ...code is given in the qn itself.
