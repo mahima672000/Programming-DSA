@@ -12,3 +12,7 @@ Arrays.fill() is actually leading to the best runtime!
 If a xor b = c then show that a xor c = b and b xor c = a 
 
 https://www.geeksforgeeks.org/bitwise-operators-in-java/
+# sorting
+Arrays.sort()
+# absolute in java
+Math.abs()
