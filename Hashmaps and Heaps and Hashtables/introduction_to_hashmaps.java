@@ -100,5 +100,6 @@ public class Main {
   }
 }
 
-
+// getOrDefault(Object key, V defaultValue)
+// is used to get the value mapped with specified key. If no value is mapped with the provided key then the default value is returned.
 
