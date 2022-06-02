@@ -10,7 +10,23 @@ This operator is a binary operator, denoted by ‘&.’ It returns bit by bit AN
 
 # . Bitwise AND (&)
 
-This operator is a binary operator, denoted by ‘&.’ It returns bit by bit AND of input values, i.e., if both bits are 1, it gives 1, else it shows 0
+This operator is a binary operator, denoted by ‘&.’ It returns bit by bit AND of input values, i.e., if both bits are 1, it gives 1, else it shows 0.
+
+
+# Bitwise XOR (^) 
+
+This operator is a binary operator, denoted by ‘^.’ It returns bit by bit XOR of input values, i.e., if corresponding bits are different, it gives 1, else it shows 0. 
+
+Example:
+
+a = 5 = 0101 (In Binary)
+b = 7 = 0111 (In Binary)
+
+Bitwise XOR Operation of 5 and 7
+  0101
+^ 0111
+ ________
+  0010 
 
 # Bitwise Complement (~)
 
