@@ -18,4 +18,4 @@ Arrays.sort()
 Math.abs()
 
 # ^= operator in java
-^= 	x ^= 3 	x = x ^ 3
+x ^= 3 	x = x ^ 3 this is not x raised to 3 but it is XOR 
