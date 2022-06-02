@@ -16,3 +16,6 @@ https://www.geeksforgeeks.org/bitwise-operators-in-java/
 Arrays.sort()
 # absolute in java
 Math.abs()
+
+# ^= operator in java
+^= 	x ^= 3 	x = x ^ 3
