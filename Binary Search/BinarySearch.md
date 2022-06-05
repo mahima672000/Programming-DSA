@@ -1,4 +1,5 @@
 *if qn me sorted word is used high chances of binary search there*
+* finding a number in a given range is also indicateing binary search *
 
 ## Binary Search in a Sorted array
 ```class Solution {
