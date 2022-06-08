@@ -1,6 +1,7 @@
 *if qn me sorted word is used high chances of binary search there*
 * finding a number in a given range is also indicateing binary search *
 * or simply * finding a no. which is even a given range indicates binary search*
+* always remember you calculate both l & h in BS coz u gotta use while doing BS .... and u never use <,while declaring inside while/for loop,u always use<= coz u use calculateed value
 ## Binary Search in a Sorted array
 ```class Solution {
     public int search(int[] nums, int target) {
