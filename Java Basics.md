@@ -19,3 +19,8 @@ Math.abs()
 
 # ^= operator in java
 x ^= 3 	x = x ^ 3 this is not x raised to 3 but it is XOR 
+# conversions-
+" " + integer ---> converted to string
+Arrays.toString();
+String.toCharArray();
+character-'0'---> converted to integer :))))
