@@ -1,6 +1,6 @@
 *if qn me sorted word is used high chances of binary search there*
 * finding a number in a given range is also indicateing binary search *
-
+* or simply * finding a no. which is even a given range indicates binary search*
 ## Binary Search in a Sorted array
 ```class Solution {
     public int search(int[] nums, int target) {
