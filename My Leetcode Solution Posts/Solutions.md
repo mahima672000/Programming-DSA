@@ -1,4 +1,4 @@
-# Greedy 
+# Trees
 
 ### 2236. Root Equals Sum of Children
 checkTree function given in the question is of boolean return type , so simply write
@@ -11,3 +11,4 @@ class Solution {
     }
 }
 ```
+
