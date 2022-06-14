@@ -29,3 +29,6 @@ character-'0'---> converted to integer :))))
 # substring in java
 
 file:///home/hp/Pictures/Screenshot%20from%202022-06-14%2017-39-17.png![image](https://user-images.githubusercontent.com/93143005/173573870-49b9dc5f-545c-4546-842a-4c393c96e23e.png)
+
+# identifying graph qn
+we can mostly identify graph with list<list<integer> kinda thing
