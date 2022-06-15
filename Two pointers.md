@@ -4,6 +4,7 @@ There are primarily two ways of implementing the two-pointer technique:
 1. One pointer at each end
 2. Different Paces
 
+
 1. One pointer at each end
 
 One pointer starts from beginning and other from the end and they proceed towards each other
