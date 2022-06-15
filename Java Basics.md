@@ -32,3 +32,7 @@ file:///home/hp/Pictures/Screenshot%20from%202022-06-14%2017-39-17.png![image](h
 
 # identifying graph qn
 we can mostly identify graph with list<list<integer> kinda thing
+  
+# dp vs greedy
+  https://afteracademy.com/blog/dp-vs-greedy-algorithms
+  
