@@ -40,3 +40,5 @@ we can mostly identify graph with list<list<integer> kinda thing
   
   # for string never use == use .equals
   
+  # u can't use nested if for mutually exclusive cases
+  
