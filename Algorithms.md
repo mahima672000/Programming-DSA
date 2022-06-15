@@ -1,6 +1,18 @@
 * Binary Search
 
-* Two Pointers  https://afteracademy.com/blog/what-is-the-two-pointer-technique
+*_ Two Pointers  https://afteracademy.com/blog/what-is-the-two-pointer-technique
+ Two-pointers is one of the most common problem-solving techniques that is used in many popular algorithms. The main idea behind two pointers technique is that we maintain two variables denoting two different indices in the array and those two variables are moved based on some condition.
+
+Two pointers technique helps reduce the time complexity by avoiding nested loops. The primary condition for using the two pointers technique to effectively solve a problem is that each pointer should independently move in a single direction. They can go in opposite directions but the direction should not change in between.
+
+We will be looking at few examples and solving problems revolving around 4 main ideas:
+
+    Both pointers starting from the beginning and moving in the same direction
+    Both pointers moving in the same direction at a fixed difference of k (Sliding Window)
+    Both pointers starting from opposite ends and moving towards each other
+    Two or more pointers each on a separate array
+_
+
 
 * Sliding window
 
