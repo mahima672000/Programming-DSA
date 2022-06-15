@@ -1,4 +1,4 @@
-it involves using two pointers to save time and space. (Here, pointers are basically array indexes) ***mostly for searching PAIRS of anything***
+it involves using two pointers to save time and space. (Here, pointers are basically array indexes) ***mostly for searching PAIRS of anything (hehe:)*** 
 
 There are primarily two ways of implementing the two-pointer technique:
 1. One pointer at each end
