@@ -36,3 +36,7 @@ we can mostly identify graph with list<list<integer> kinda thing
 # dp vs greedy
   https://afteracademy.com/blog/dp-vs-greedy-algorithms
   
+  # if(!array[i]) ....it means if(array[i] == 0) or we can say if array[i] == false ..if boolean array
+  
+  # for string never use == use .equals
+  
