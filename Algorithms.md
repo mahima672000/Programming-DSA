@@ -1,6 +1,6 @@
 * Binary Search
 
-* Two Pointers
+* Two Pointers  https://afteracademy.com/blog/what-is-the-two-pointer-technique
 
 * Sliding window
 
