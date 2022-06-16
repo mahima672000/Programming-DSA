@@ -1,4 +1,4 @@
-u can see this is as a two pointer approach also ..its just that there is some constant distance between the two pointers....or mostly if contagious/consecutive word is used there is high chances of using sliding window approach there.
+u can see this is as a two pointer approach also ..its just that there is some constant distance between the two pointers....or mostly if contagious/consecutive/subarray word is used there is high chances of using sliding window approach there.
 
 
 Q. Given an array of integers, we have the task of finding the minimum sum from all subarrays of size k.
