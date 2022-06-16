@@ -42,3 +42,4 @@ we can mostly identify graph with list<list<integer> kinda thing
   
   # u can't use nested if for mutually exclusive cases
   
+# there is no diff between contiguos subarrays and sub arrays.............subarray itself is a contiguous part of an array.
