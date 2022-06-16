@@ -43,3 +43,6 @@ we can mostly identify graph with list<list<integer> kinda thing
   # u can't use nested if for mutually exclusive cases
   
 # there is no diff between contiguos subarrays and sub arrays.............subarray itself is a contiguous part of an array.
+  
+  # Post Increment & Pre Increment
+  Post-Increment (i++): we use i++ in our statement if we want to use the current value, and then we want to increment the value of i by 1. 2) Pre-Increment(++i): We use ++i in our statement if we want to increment the value of i by 1 and then use it in our statement.
