@@ -1,0 +1,1 @@
+u can see this is as a two pointer approach also ..its just that there is some constant distance between the two pointers....or mostly if contagious word is used there is high chances of using sliding window approach there.
