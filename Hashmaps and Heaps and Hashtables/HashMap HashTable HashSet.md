@@ -12,7 +12,7 @@ The Javadoc for Hashtable says:
 
 It is confusing that all of them implement the hash table. Do they implement the concept of hash table?
 
-
+Answer----------
 
 Java's Set and Map interfaces specify two very different collection types. A Set is just what it sounds like: a collection of distinct (non-equal) objects, with no other structure. A Map is, conceptually, also just what it sounds like: a mapping from a set of objects (the distinct keys) to a collection of objects (the values). Hashtable and HashMap both implement Map, HashSet implements Set, and they all use hash codes for keys/objects contained in the sets to improve performance.
 
