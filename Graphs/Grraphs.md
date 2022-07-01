@@ -26,4 +26,11 @@ if its an odd length cycle there will be an ambiguity
 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-01%2020-48-46.png![image](https://user-images.githubusercontent.com/93143005/176922905-6d679a4e-6dad-4270-9de5-1cf7f3582c0e.png)
 
+# Representation of Graph
+it indicates whether there is a connection/edge between to nodes or not.
+file:///home/hp/Pictures/Screenshot%20from%202022-07-01%2021-03-04.png![image](https://user-images.githubusercontent.com/93143005/176925345-48efdd51-b1ee-47c3-9ab6-66efa41edd44.png)
+adjacency list
+we make arrays for which the element is connected to ...a little correction in diagram below 1 has 0 too 
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2000-03-02.png![image](https://user-images.githubusercontent.com/93143005/176951988-fef3f1e0-1eb4-40db-a919-857936994c57.png)
+
 
