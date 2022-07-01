@@ -33,4 +33,10 @@ adjacency list
 we make arrays for which the element is connected to ...a little correction in diagram below 1 has 0 too 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2000-03-02.png![image](https://user-images.githubusercontent.com/93143005/176951988-fef3f1e0-1eb4-40db-a919-857936994c57.png)
 
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2000-05-43.png![image](https://user-images.githubusercontent.com/93143005/176952241-03509df6-78b5-43e6-9f28-b366a0263bfa.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2000-06-49.png![image](https://user-images.githubusercontent.com/93143005/176952367-5789a096-a638-40a0-91fb-d4f943276618.png)
+
+
+
 
