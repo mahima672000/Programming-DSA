@@ -8,6 +8,7 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-01%2018-39-16.png![image](h
 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-01%2018-39-53.png![image](https://user-images.githubusercontent.com/93143005/176901958-aa711f02-09bb-4223-8f27-e12b1ba17369.png)
 
+fully connected graph is the most dense graph
 file:///home/hp/Pictures/Screenshot%20from%202022-07-01%2018-41-04.png![image](https://user-images.githubusercontent.com/93143005/176901979-1cc6203a-c044-42a8-9469-2decafc935f1.png)
 
 
