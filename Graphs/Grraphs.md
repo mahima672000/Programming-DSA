@@ -42,7 +42,18 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2000-06-49.png![image](h
 # Detect a cycle in a directed graph 
 
 
-# Disjoin Set | UNION and FIND
+# Spanning Tree | MST | GRAPH THEORY
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-40-36.png![image](https://user-images.githubusercontent.com/93143005/176992486-2ca8c997-a9cf-4b08-84d9-c0ad84d12c43.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-41-25.png![image](https://user-images.githubusercontent.com/93143005/176992521-f4668952-9afd-44c0-8964-ef48c6dabef0.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-42-27.png![image](https://user-images.githubusercontent.com/93143005/176992567-7bdeb5a4-dc74-44fb-8020-c482bbbfbe31.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-44-21.png![image](https://user-images.githubusercontent.com/93143005/176992647-b386f5f9-15d9-45ee-81fa-58cffef52ab7.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-44-53.png![image](https://user-images.githubusercontent.com/93143005/176992665-fa1116f7-5002-4ea1-8d17-0dd646ed24d8.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-46-12.png![image](https://user-images.githubusercontent.com/93143005/176992706-987028aa-3e4f-434e-88bb-b273ccb3571a.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-48-16.png![image](https://user-images.githubusercontent.com/93143005/176992753-cb2bc34b-424e-4a97-af61-1616221917cf.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-49-08.png![image](https://user-images.githubusercontent.com/93143005/176992820-21169b68-0807-4010-b0c9-cfd0fbe89af9.png)
+
 
 
 
