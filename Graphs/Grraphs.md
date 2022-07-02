@@ -86,6 +86,21 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-06-42.png![image](h
 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-06-52.png![image](https://user-images.githubusercontent.com/93143005/176995233-14430ecc-dd81-43ba-82bc-fe35464332f6.png)
 
+# Dijkstra Algorithm
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-13-47.png![image](https://user-images.githubusercontent.com/93143005/176996161-8fc348db-eb53-44fb-b265-f9ac5e48eb95.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-14-17.png![image](https://user-images.githubusercontent.com/93143005/176996168-810845ee-e554-4086-b48d-e3a99fbaef39.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-15-30.png![image](https://user-images.githubusercontent.com/93143005/176996183-2005b55d-c2da-4630-af7a-05522d4f9617.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-16-40.png![image](https://user-images.githubusercontent.com/93143005/176996194-86487f11-61b3-4eb6-8698-a370748f3283.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-18-28.png![image](https://user-images.githubusercontent.com/93143005/176996196-669b7ef7-8206-4e2b-8536-34905d5f601f.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-30-35.png![image](https://user-images.githubusercontent.com/93143005/176996205-c67477c3-fa76-4733-be59-3b7390a29d65.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-30-48.png![image](https://user-images.githubusercontent.com/93143005/176996212-ffb22e68-9552-47de-b332-3fd4705287f1.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-35-42.png![image](https://user-images.githubusercontent.com/93143005/176996220-6915e262-a56c-46db-9800-261f31878608.png)
+
 
 
 
