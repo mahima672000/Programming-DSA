@@ -50,3 +50,10 @@ we can mostly identify graph with list<list<integer> kinda thing
   # hashMap.keySet().toArray(); // returns an array of keys
   
 # hashMap.values().toArray(); // returns an array of values
+  
+  # List of List
+  List<Integer>[] graph = new ArrayList[n+1]; //list of list
+  for(int i =1;i<=n;i++){
+                         graph[i] = new ArrayList<>(); // list
+  }
+  
