@@ -101,6 +101,13 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-30-48.png![image](h
 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-35-42.png![image](https://user-images.githubusercontent.com/93143005/176996220-6915e262-a56c-46db-9800-261f31878608.png)
 
+# Bellman ford
+
+-ve edge wt cycle means whether that cycle has -ve total cost or not .... only one edge -ve doesn't gurantees -ve edge wt cycle.
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2018-32-11.png![image](https://user-images.githubusercontent.com/93143005/177002049-d2e462a0-1579-465b-8939-27393bb7769a.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2018-36-14.png![image](https://user-images.githubusercontent.com/93143005/177002093-1cbe2272-1140-4e9a-a3ed-86f8823f8ec8.png)
+
 
 
 
