@@ -84,8 +84,7 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-03-28.png![image](h
 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-06-42.png![image](https://user-images.githubusercontent.com/93143005/176995172-f4c0a988-2b43-49f4-bcfb-7cd3bef51efd.png)
 
-file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-06-52.png![Uploading image.png…]()
-
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-06-52.png![image](https://user-images.githubusercontent.com/93143005/176995233-14430ecc-dd81-43ba-82bc-fe35464332f6.png)
 
 
 
