@@ -109,6 +109,7 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2018-32-11.png![image](h
 but for an undirected graph (-ve egde goes for infinte loop) and hence only a single edge -ve in undirected graph can mean -ve edge wt cycle.
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2018-36-14.png![image](https://user-images.githubusercontent.com/93143005/177002093-1cbe2272-1140-4e9a-a3ed-86f8823f8ec8.png)
 
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2018-43-30.png![image](https://user-images.githubusercontent.com/93143005/177002383-3accd1d3-fd58-4133-bdff-774bff51dcd5.png)
 
 
 
