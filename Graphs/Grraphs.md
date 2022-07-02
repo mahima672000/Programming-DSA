@@ -56,7 +56,8 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-49-08.png![image](h
 
 
 # PRIMS ALGORITHM
-file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-03-35.png![image](https://user-images.githubusercontent.com/93143005/176994385-714d8c97-df37-4648-88f2-e4eece911984.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-03-35.png![image](https://user-images.githubusercontent.com/93143005/176994437-456737fc-633d-4146-9e08-ff9eb43b3973.png)
+
 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-34-30.png![image](https://user-images.githubusercontent.com/93143005/176994399-31120251-6184-4368-93e5-0ab32d79acfb.png)
 
@@ -69,6 +70,7 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-41-52.png![image](h
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-42-20.png![image](https://user-images.githubusercontent.com/93143005/176994408-2ecd7794-f90d-4690-815d-49857e72781a.png)
 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-44-30.png![image](https://user-images.githubusercontent.com/93143005/176994417-d355b819-32b0-4682-9f8d-28205a7fc7b7.png)
+
 
 
 
