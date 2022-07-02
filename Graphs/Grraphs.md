@@ -72,6 +72,20 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-42-20.png![image](h
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-44-30.png![image](https://user-images.githubusercontent.com/93143005/176994417-d355b819-32b0-4682-9f8d-28205a7fc7b7.png)
 
 
+# Kruskal's algorithm
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-01-18.png![image](https://user-images.githubusercontent.com/93143005/176994954-c8167e7a-b257-443c-acd7-8f4676adc70e.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-01-55.png![image](https://user-images.githubusercontent.com/93143005/176995150-8b54a240-41cd-4bd9-a0cc-dee0f98a2b47.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-02-20.png![image](https://user-images.githubusercontent.com/93143005/176995161-43153200-cb4e-4c18-aafc-13e1657ee48f.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-03-28.png![image](https://user-images.githubusercontent.com/93143005/176995165-fa261855-24b5-45ab-b437-c96556af30ee.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-06-42.png![image](https://user-images.githubusercontent.com/93143005/176995172-f4c0a988-2b43-49f4-bcfb-7cd3bef51efd.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2015-06-52.png![Uploading image.png…]()
+
 
 
 
