@@ -55,8 +55,6 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-48-16.png![image](h
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-49-08.png![image](https://user-images.githubusercontent.com/93143005/176992820-21169b68-0807-4010-b0c9-cfd0fbe89af9.png)
 
 
-
-
-
+# PRIMS ALGORITHM
 
 
