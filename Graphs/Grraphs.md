@@ -56,6 +56,8 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2013-49-08.png![image](h
 
 
 # PRIMS ALGORITHM
+
+Do rememeber the example considered here is a particular graph so we are starting with adjacent points ..but when we are given things like connect all points then we gootaa calculate min of all the edges,
 file:///home/hp/Pictures/Screenshot%20from%202022-07-02%2014-03-35.png![image](https://user-images.githubusercontent.com/93143005/176994437-456737fc-633d-4146-9e08-ff9eb43b3973.png)
 
 
