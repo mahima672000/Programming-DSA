@@ -7,7 +7,5 @@ file:///home/hp/Pictures/Screenshot%20from%202022-07-04%2000-22-36.png![image](h
 
 file:///home/hp/Pictures/Screenshot%20from%202022-07-04%2000-23-39.png![image](https://user-images.githubusercontent.com/93143005/177053473-b8f74056-154b-43aa-be97-498e275d490f.png)
 
-file:///home/hp/Pictures/Screenshot%20from%202022-07-04%2000-24-38.png![image](https://user-images.githubusercontent.com/93143005/177053476-7ecec09f-db50-4c76-906e-0f38d2cf7cc9.png)
-
 file:///home/hp/Pictures/Screenshot%20from%202022-07-04%2000-24-48.png![image](https://user-images.githubusercontent.com/93143005/177053478-16858aef-8115-4368-bc1c-7ac9870e8b26.png)
 
