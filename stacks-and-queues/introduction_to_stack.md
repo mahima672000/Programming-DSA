@@ -29,7 +29,7 @@ Hence, _trying to remove an element from an empty stack (size = 0), will give a 
 *peek():**Returns** top element of stack.
 {Note: It will give a run-time error, if there is no element present in the stack, i.e. the size of stack is zero.}
 
-*empty():Returns true if stack is empty, else false.
+*empty():Returns **true** if stack is empty, else false.
 
 *size():Returns the number of elements present in the stack.
 
