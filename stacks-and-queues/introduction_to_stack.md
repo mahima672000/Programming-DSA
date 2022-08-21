@@ -24,7 +24,7 @@ Stack overflow can occur when there is no more heap memory, which can be allocat
 
 *pop():Removes an item from the stack and returns the top element which is removed.
 {The items are popped in the reverse order in which they are pushed(OBVIOUS)If the stack is empty, then it is said to be a Stack Underflow condition. 
-Hence, trying to remove an element from an empty stack (size = 0), will give a run-time error.}
+Hence, _trying to remove an element from an empty stack (size = 0), will give a run-time error._}
 
 *peek():Returns top element of stack.
 {Note: It will give a run-time error, if there is no element present in the stack, i.e. the size of stack is zero.}
