@@ -11,3 +11,7 @@ file:///home/hp/Pictures/Screenshot%20from%202022-08-21%2022-48-12.png![image](h
 
 file:///home/hp/Pictures/Screenshot%20from%202022-08-21%2022-55-36.png![image](https://user-images.githubusercontent.com/93143005/185803355-77f26122-0188-4227-ac05-85f5abdec5a1.png)
 
+file:///home/hp/Pictures/Screenshot%20from%202022-08-21%2022-57-36.png![image](https://user-images.githubusercontent.com/93143005/185803435-0936b8c8-646f-4907-8e92-7733c5e31296.png)
+
+
+**we choose divergent over convergent for worst case**
